@@ -1,2 +1,2 @@
-# my-first-project
-This is my first repository in GitHub
+# ПЗ 10. Робота з GitHub
+Навчальний репозиторій для практичної роботи з GitHub.
